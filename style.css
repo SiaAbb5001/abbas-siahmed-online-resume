@@ -27,6 +27,12 @@
         text-align: center;
     }
     
+    #contact-details>h1 {
+        color: black;
+        font-weight: normal;
+        padding-bottom: 5px;
+    }
+    
     #contact-details>h3 {
         color: black;
         font-weight: normal;
@@ -41,10 +47,14 @@
     }
     
     .about-container {
-        font-family: "Montserrat", sans-serif;
-        color: #4fb8b8;
-        justify-content: center;
+        text-justify: auto;
         align-items: center;
+    }
+    
+    .about-container>h1 {
+        color: black;
+        font-family: "Montserrat", serif;
+        font-size: 2.5rem;
     }
     
     .aboutme-paragrpah>P {
@@ -56,11 +66,12 @@
     .site-description {
         font-family: "Montserrat", serif;
         font-weight: normal;
+        color: black;
     }
     /* resume page styling */
     
     .resume {
-        background-color: rgba(244, 245, 248, 0.842);
+        background-color: rgba(116, 126, 156, 0.842);
         font-family: "Montserrat", sans-serif;
     }
     
@@ -86,10 +97,11 @@
         font-weight: normal;
         padding-bottom: 10px;
         text-align: center;
+        color: black;
     }
     
     h2 {
-        color: #0136e4;
+        color: #081f69;
         font-weight: normal;
         font-size: 16pt;
     }
@@ -102,6 +114,15 @@
     span {
         font-weight: 750;
         font-size: 12pt;
+    }
+    
+    #favorite_movies {
+        font-family: "Montserrat", serif;
+        font-size: 2.5rem;
+        font-weight: normal;
+        padding-bottom: 10px;
+        text-align: center;
+        color: black;
     }
     
     .movie-title {
@@ -117,6 +138,7 @@
         font-family: "Montserrat", serif;
         font-weight: normal;
         font-size: 12pt;
+        color: black;
     }
     
     h3 {
@@ -131,4 +153,10 @@
     
     p {
         font-size: 11pt;
+    }
+    
+    .about-container>h1 {
+        color: black;
+        font-family: "Montserrat", serif;
+        font-size: 2.5rem;
     }
