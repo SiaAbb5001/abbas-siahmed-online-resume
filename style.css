@@ -1,162 +1,162 @@
-    .top-container {
-        background-color: rgb(211, 216, 221);
-    }
-    
-    #my-name {
-        color: #1f9c9c;
-        font-size: 2.5rem;
-        font-family: "Montserrat", serif;
-        font-weight: normal;
-    }
-    
-    .about-me-text {
-        color: #4fb8b8;
-        font-family: "Montserrat", serif;
-        font-size: 2.5rem;
-        font-weight: normal;
-        padding-bottom: 10px;
-        text-align: center;
-    }
-    
-    .contact-me {
-        background-color: rgb(211, 216, 221);
-        font-family: "Montserrat", serif;
-        font-size: 1.5rem;
-        font-weight: normal;
-        padding-bottom: 10px;
-        text-align: center;
-    }
-    
-    #contact-details>h1 {
-        color: black;
-        font-weight: normal;
-        padding-bottom: 5px;
-    }
-    
-    #contact-details>h3 {
-        color: black;
-        font-weight: normal;
-        padding-bottom: 5px;
-        font-size: 1.5rem;
-    }
-    
-    #contact-details>p {
-        color: #4fb8b8;
-        font-weight: normal;
-        font-size: 1.5rem;
-    }
-    
-    .about-container {
-        text-justify: auto;
-        align-items: center;
-    }
-    
-    .about-container>h1 {
-        color: black;
-        font-family: "Montserrat", serif;
-        font-size: 2.5rem;
-    }
-    
-    .aboutme-paragrpah>P {
-        font-size: 12pt;
-        font-weight: normal;
-        color: #328b8b
-    }
-    
-    .site-description {
-        font-family: "Montserrat", serif;
-        font-weight: normal;
-        color: black;
-    }
-    /* resume page styling */
-    
-    .resume {
-        background-color: rgba(116, 126, 156, 0.842);
-        font-family: "Montserrat", sans-serif;
-    }
-    
-    li {
-        list-style: none;
-    }
-    
-    .responsibilities>li {
-        list-style: disc;
-    }
-    
-    .skills-list>li {
-        list-style: disc;
-    }
-    
-    .personal-development>li {
-        list-style: disc;
-    }
-    
-    #favorite_movies {
-        font-family: "Montserrat", serif;
-        font-size: 2.5rem;
-        font-weight: normal;
-        padding-bottom: 10px;
-        text-align: center;
-        color: black;
-    }
-    
-    h2 {
-        color: #081f69;
-        font-weight: normal;
-        font-size: 16pt;
-    }
-    
-    h4 {
-        font-weight: 550;
-        font-size: 11pt;
-    }
-    
-    span {
-        font-weight: 750;
-        font-size: 12pt;
-    }
-    
-    #favorite_movies {
-        font-family: "Montserrat", serif;
-        font-size: 2.5rem;
-        font-weight: normal;
-        padding-bottom: 10px;
-        text-align: center;
-        color: black;
-    }
-    
-    .movie-title {
-        text-align: center;
-        font-family: "Montserrat", serif;
-        color: #117777;
-        font-weight: normal;
-        font-size: 14pt;
-    }
-    
-    .comment {
-        text-align: center;
-        font-family: "Montserrat", serif;
-        font-weight: normal;
-        font-size: 12pt;
-        color: black;
-    }
-    
-    h3 {
-        color: rgba(0, 17, 255, 0.836);
-        font-weight: 700;
-        font-size: 16;
-    }
-    
-    a {
-        color: rgba(0, 0, 128, 0.788);
-    }
-    
-    p {
-        font-size: 11pt;
-    }
-    
-    .about-container>h1 {
-        color: black;
-        font-family: "Montserrat", serif;
-        font-size: 2.5rem;
-    }
+.top-container {
+  background-color: rgb(211, 216, 221);
+}
+
+#my-name {
+  color: #1f9c9c;
+  font-size: 2.5rem;
+  font-family: "Montserrat", serif;
+  font-weight: normal;
+}
+
+.about-me-text {
+  color: #4fb8b8;
+  font-family: "Montserrat", serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+.contact-me {
+  background-color: rgb(211, 216, 221);
+  font-family: "Montserrat", serif;
+  font-size: 1.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+#contact-details > h1 {
+  color: black;
+  font-weight: normal;
+  padding-bottom: 5px;
+}
+
+#contact-details > h3 {
+  color: black;
+  font-weight: normal;
+  padding-bottom: 5px;
+  font-size: 1.5rem;
+}
+
+#contact-details > p {
+  color: #4fb8b8;
+  font-weight: normal;
+  font-size: 1.5rem;
+}
+
+.about-container {
+  text-justify: auto;
+  align-items: center;
+}
+
+.about-container > h1 {
+  color: black;
+  font-family: "Montserrat", serif;
+  font-size: 2.5rem;
+}
+
+.aboutme-paragrpah > P {
+  font-size: 12pt;
+  font-weight: normal;
+  color: #328b8b;
+}
+
+.site-description {
+  font-family: "Montserrat", serif;
+  font-weight: normal;
+  color: black;
+}
+
+/* resume page styling */
+.resume {
+  background-color: rgba(116, 126, 156, 0.842);
+  font-family: "Montserrat", sans-serif;
+}
+
+li {
+  list-style: none;
+}
+
+.responsibilities > li {
+  list-style: disc;
+}
+
+.skills-list > li {
+  list-style: disc;
+}
+
+.personal-development > li {
+  list-style: disc;
+}
+
+#favorite_movies {
+  font-family: "Montserrat", serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+  text-align: center;
+  color: black;
+}
+
+h2 {
+  color: #081f69;
+  font-weight: normal;
+  font-size: 16pt;
+}
+
+h4 {
+  font-weight: 550;
+  font-size: 11pt;
+}
+
+span {
+  font-weight: 750;
+  font-size: 12pt;
+}
+
+#favorite_movies {
+  font-family: "Montserrat", serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+  text-align: center;
+  color: black;
+}
+
+.movie-title {
+  text-align: center;
+  font-family: "Montserrat", serif;
+  color: #117777;
+  font-weight: normal;
+  font-size: 14pt;
+}
+
+.comment {
+  text-align: center;
+  font-family: "Montserrat", serif;
+  font-weight: normal;
+  font-size: 12pt;
+  color: black;
+}
+
+h3 {
+  color: rgba(0, 17, 255, 0.836);
+  font-weight: 700;
+  font-size: 16;
+}
+
+a {
+  color: rgba(0, 0, 128, 0.788);
+}
+
+p {
+  font-size: 11pt;
+}
+
+.about-container > h1 {
+  color: black;
+  font-family: "Montserrat", serif;
+  font-size: 2.5rem;
+}
